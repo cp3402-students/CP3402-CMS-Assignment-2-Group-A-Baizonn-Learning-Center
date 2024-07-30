@@ -31,10 +31,9 @@ Here are the links where you can see our step-by-step version controls to create
 Website Link: [Baizonn Learning Center](http://18.136.43.88)
 
 **Main Objective:**
-Our primary goal for the Baizonn Learning Center website is to increase student enrollment by effectively showcasing the center's Math and Science education strengths, thereby attracting more parents and high-school students in Singapore.
-To achieve this, we will create an engaging and informative design that ensures a visually appealing and user-friendly website. The design will be clean and modern, reflecting the professionalism and quality of Baizonn Learning Center.
-We will highlight academic excellence by showcasing the center’s Math and Science education specialization. This will include featuring our academic partner, awards, and a sample of our teaching methods. 
-We will present course information from the Primary to Junior College level. This section will include information on class schedules and fees, ensuring prospective students and their parents have all the information they need to make informed decisions about enrolling in the Baizonn Learning Center.
+Our primary goal for the Baizonn Learning Center website is to increase student enrollment by effectively showcasing the center's Math and Science education strengths, thereby attracting more parents and high-school students in Singapore.To achieve this, we will create an engaging and informative design that ensures a visually appealing and user-friendly website. The design will be clean and modern, reflecting the professionalism and quality of Baizonn Learning Center.
+
+We will highlight academic excellence by showcasing the center’s Math and Science education specialization. This will include featuring our academic partner, awards, and a sample of our teaching methods. We will present course information from the Primary to Junior College level. This section will include information on class schedules and fees, ensuring prospective students and their parents have all the information they need to make informed decisions about enrolling in the Baizonn Learning Center.
 
 # Content Strategy
 To ensure the successful deployment of our Baizonn Learning Center website, we will create an engaging and informative user experience through:

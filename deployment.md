@@ -7,7 +7,7 @@
 * Communication - `Slack`, `What'sApp`
 * Local Environments & IDE - `PHP`, `WordPress`, `Visual Studio Code`
 * Version Control - `GitHub`
-*
+
 ## CMS - WordPress
 
 ## Documentation and Team Management - Trello
@@ -52,4 +52,21 @@ it and then merge it with the development branch. Before the merge would be acce
 other members in the pull request.
 
 ### Set up for version control with local environment
-Step 1:
+1. Set up GitHub Repository
+2. Connect Repo on Local Git location
+3. Set up XAMPP with WordPress in PHP Admin on the local repository
+
+
+### Hosting 
+We figure out working on online hosting services helps us better work on the same time and anywhere without technical issue in some member's device.
+Therefore we start an instance on AWS LightSail
+1. Create AWS LightSail Instance
+2. Set up Location Singapore
+3. Select Word Press as platform
+4. Pick 2GB RAM program
+5. Finish setting then activate Static IP for member to join WP editing
+6. Go console and type `cat bitnami_application_password`
+7. Then Run the istance to start work
+
+
+

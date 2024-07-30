@@ -51,6 +51,7 @@ Date: Week 6 – July 11, Thursday (face-to-face)
 * Discussed and selected project management tools: Slack for communication, Trello for task management, GitHub for version control, and Discord for additional coordination.
 * Team members shared their strengths and weaknesses to allocate tasks and responsibilities better.
 
+
 **Meeting 2: Initial Design and Wireframing**
 
 Date: Week 7 – July 18, Thursday (face-to-face)
@@ -58,17 +59,20 @@ Date: Week 7 – July 18, Thursday (face-to-face)
 * Discussed and decided on key design elements.
 * Assigned tasks for creating detailed wireframes and design mockups.
 
+
 **Meeting 3: Hosting Environment Decisions**
 
 Date: Week 7 – July 20, Saturday (online)
 * Debated and evaluated different hosting options for local, staging, and live environments.
 * Choose the best hosting site based on the needs of the project.
 
+
 **Meeting 4: Content Strategy and Integration**
 
 Date: Week 8 – July 23, Tuesday (face-to-face)
 * Developed a content strategy for the website, including text, images, and multimedia elements.
 * Discussed methods for integrating content into the WordPress site and ensuring consistency across all sections.
+
 
 **Meeting 5: Website Theme, Design, and Structure Planning**
 
@@ -77,17 +81,20 @@ Date: Week 8 – July 25, Thursday (face-to-face)
 * Decided on the layout and placement of content.
 * Assigned specific website sections to team members based on their strengths.
 
+
 **Meeting 6: Feedback and Improvement**
 Date: Week 8 – July 27, Saturday (online)
 * Team members presented progress on their assigned parts of the project.
 * Provided feedback and suggestions for improvement.
 * Collaborated on refining and enhancing individual contributions.
 
+
 **Meeting 7: Finalizing the Website and Starting Documentation and Video Presentation**
 
 Date: Week 9 – July 30, Tuesday (face-to-face)
 * Finalized the remaining parts of the website and ensured all components were working correctly.
 * Began working on the documentation and the video presentation.
+
 
 **Meeting 8: Documentations and Video Finalization**
 

@@ -93,4 +93,3 @@ Date: Week 9 – July 30, Tuesday (face-to-face)
 Date: Week 9 – August 1, Thursday (face-to-face)
 * Completed the documentation (markdown files and LinkedIn reports).
 * Produced and finished the video presentation.
-

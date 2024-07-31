@@ -1,0 +1,272 @@
+/*
+Author: Changlin Zhao
+Date: April 4th, 2023
+File Name: styles.css
+*/
+
+body,
+header,
+nav,
+main,
+footer,
+h1,
+div,
+img,
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #e7e3e3;
+}
+
+header {
+    width: 25%;
+    float: left;
+}
+
+header img {
+    border-radius: 40%
+}
+
+nav {
+    width: 70%;
+    float: right;
+    margin: 5em 3em 0 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    text-align: right;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.5em;
+    font-family: Verdana, Arial, sans-serif;
+    font-weight: bold;
+}
+
+nav li a {
+    display: block;
+    color: #000;
+    text-align: center;
+    padding: 0.5em 1em 0.5em 1em;
+    text-decoration: none;
+}
+
+#announcements {
+    color: aliceblue;
+    position: absolute;
+    top: 426px;
+    left: 146px;
+    font-size: 18px;
+}
+
+main {
+    clear: left;
+    padding: 2%;
+    font-size: 1.25em;
+}
+
+#announcements h1 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+#announcements li a {
+    font-size: 1.35em;
+    color: #c70c46;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#announcements ul li a:hover {
+    color: #fff;
+}
+
+#service {
+    padding-top: 15px;
+}
+
+#service h1 {
+    text-align: center;
+}
+
+.highlight {
+    font-size: 1.35em;
+    color: #c70c46;
+    font-weight: bold;
+}
+
+#intropic,
+#introword,
+#afterpic {
+    width: 32%;
+    float: left;
+}
+
+#introword {
+    text-align: center;
+    margin-left: auto;
+    padding-top: 40px;
+}
+
+#afterpic {
+    padding-left: 50px;
+}
+
+#hours {
+    color: #000;
+    position: absolute;
+    top: 400px;
+    left: 376px;
+    font-size: 18px;
+}
+
+#hours ul {
+    font-size: 1.2em;
+}
+
+.filler {
+    clear: left;
+}
+
+#description {
+    color: #e7e3e3;
+    position: absolute;
+    top: 306px;
+    left: 946px;
+    font-size: 14px;
+}
+
+#description h2 {
+    padding: 1px;
+    text-align: center;
+}
+
+#description ul {
+    margin-left: 40px;
+    font-size: 1.6em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#services {
+    padding: 40px;
+}
+
+#services h1 {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+#services img,
+#list1,
+#list2,
+#list3 {
+    float: left;
+    margin: 0 2%;
+}
+
+#list1,
+#list2,
+#list3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    margin-top: 40px;
+    margin-left: 90px;
+}
+
+#background img {
+    opacity: 0.9;
+}
+
+#article {
+    color: #e7e3e3;
+    position: absolute;
+    top: 760px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+#article h1,
+h4 {
+    text-align: center;
+}
+
+#links {
+    color: #000;
+    font-size: 28px;
+}
+
+#links a:hover {
+    color: #c70c46;
+}
+
+#links p {
+    text-align: center;
+}
+
+#links li {
+    margin-left: 360px;
+}
+
+#links a {
+    color: #000;
+    text-decoration: none;
+}
+
+#contact {
+    color: #000;
+    position: absolute;
+    top: 386px;
+    left: 226px;
+    font-size: 18px;
+}
+
+#contact h2 {
+    text-align: center;
+}
+
+#contact a {
+    color: #000;
+    text-decoration: none;
+}
+
+#thanks {
+    text-align: center;
+}
+
+#map {
+    position: absolute;
+    top: 905px;
+    left: 845px;
+}
+
+#map h3 {
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1c2841;
+    height: 280px;
+}
+
+footer p {
+    font-size: 0.9em;
+    text-align: center;
+    color: #99aab5;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #99aab5;
+    text-decoration: none;
+}

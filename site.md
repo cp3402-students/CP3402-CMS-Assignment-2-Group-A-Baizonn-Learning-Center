@@ -1,4 +1,11 @@
-Think about someone (perhaps the client) who already knows WordPress taking over the running of the site itself: how do they add new content – as a page or a post? In what category? You may have used a plugin for a calendar of events or something, which needs to be described. Do not recreate WordPress documentation, but clearly explain to the client’s site maintainer how this particular site is organised and can be updated.
+# Navbar
+
+**To change the logo/site title**, navigate to the themes menu in wordpress dashboard and customize the theme named Assignment 2 and once its open, select site identity. In this section titles, logos and taglines can be altered as per user preference.
+
+**To change the site menu**, navigate to the same theme, customize and select the menus option. Then select the menu named "primary", and add items/reorder as needed.
+
+# Home Page
+**To edit content**, add 
 
 # Schedule Table
 

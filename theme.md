@@ -1,4 +1,36 @@
-This page should help a new developer to continue developing your theme. Include
-relevant information about what features your theme has, files that would need editing, design
-decisions, colours, etc. You do not need to produce a serious design document or reproduce basic
-details about WordPress theme development, only what is specific to your theme.
+# Theme Documentation
+
+## Overview
+Welcome to the documentation for the wordpress website. This document provides an overview of the theme's features, files that may require editing, design decisions, and other relevant information to help you continue developing the theme.
+
+
+## Features
+- **Responsive Design:** The theme is fully responsive and adapts to various screen sizes.
+- **Custom Header:** The theme includes a customizable header with logo and navigation menu support.
+- **Custom Footer:** The footer area is widgetized and can be customized from the WordPress dashboard.
+- **Custom Shortcodes:** Includes shortcodes for buttons, columns, and other design elements.
+- **Theme Customizer:** Allows real-time customization of colors, fonts, and layout options.
+
+
+### Additional Directories
+- **/assets/css/**: Contains additional CSS files.
+- **/assets/js/**: Contains JavaScript files.
+- **/assets/images/**: Contains theme images.
+
+
+## Editing Instructions
+
+### Customizing Colors
+To change the theme colors, update the color variables in the `style.css` file. Use the WordPress Customizer for real-time preview and changes.
+
+### Adding/Editing Custom Post Types
+Custom post types are defined in the `functions.php` file. You can add or edit custom post types by modifying the relevant sections in this file.
+
+### Adding New Shortcodes
+Shortcodes are defined in the `functions.php` file. To add new shortcodes, create a new function and register it using the `add_shortcode()` function.
+
+### Modifying Layouts
+Templates for various layouts are located in the `/templates/` directory. Modify these files to change the layout of specific pages or sections.
+
+## Additional Notes
+- **Child Theme Support:** The theme supports child themes for customizations.

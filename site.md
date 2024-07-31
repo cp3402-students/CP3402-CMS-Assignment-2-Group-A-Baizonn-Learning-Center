@@ -1,8 +1,18 @@
 # Site
 
-## Overview
-Welcome to the documentation for the wordpress website. This document provides an overview of the site's features that will assist in editing and adding new content in the future.
 
+## Mearsuable Goal
+The goal of the website is to increase new student sign-ups by 15% more (compare without website) or 20 new students within 6 months of launch of the new website.
+
+## Success Evaluation
+Considering assumption of 50 % of regeistors will successfully sing-ups one subject, averagely 7 submittion of form each month will be considered as successful, which means totally need 40+ submits on regestering page.
+
+## Target Audience
+For parents who have child between 6 to 14 as major, with child that takes advance courses will be less focues. Therefore based on the wide spread of Singaporean age of parents, 
+people who are 30 to 45 has child and majorly female is our target audience.
+
+## Site Overview, Maintaining and Updating
+Welcome to the documentation for the wordpress website. This document provides an overview of the site's features that will assist in editing and adding new content in the future.
 
 ## Plugin Details
 - `Advanced Custom Fields` (By: WP Engine, [WordPress.org Plugin Page](https://wordpress.org/plugins/advanced-custom-fields/))

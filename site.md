@@ -3,11 +3,6 @@
 ## Overview
 Welcome to the documentation for the wordpress website. This document provides an overview of the site's features that will assist in editing and adding new content in the future.
 
-## Navbar
-**To change the logo/site title**, navigate to the themes menu in wordpress dashboard and customize the theme named Assignment 2 and once its open, select site identity. In this section titles, logos and taglines can be altered as per user preference.
-
-**To change the site menu**, navigate to the same theme, customize and select the menus option. Then select the menu named "primary", and add items/reorder as needed.
-
 
 ## Home Page
 **To edit content**, navigate to the "Assignment 2" theme customization, select any content under the prefix "Section: ", and edit as needed.
@@ -57,6 +52,3 @@ Welcome to the documentation for the wordpress website. This document provides a
 **To change and add new content**, navigate to pages in the Wordpress dashboard and select the edit option under the page named "Registration". Then use the Wordpress block editor to add, delete and alter the content as needed.
 
 **To edit the slider**, select the slider in the block editor and click "replace" when the image is selected. When the last image in the slider is selected, click "add a new slide" in the options.
-
-## Footer
-**To edit content**, navigate to the "Assignment 2" theme customization, select the Widgets option and click on "Footer 1" to edit the left column, and select "Footer 2" to edit the right column.

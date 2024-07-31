@@ -4,6 +4,7 @@
 
 **To change the site menu**, navigate to the same theme, customize and select the menus option. Then select the menu named "primary", and add items/reorder as needed.
 
+
 # Home Page
 **To edit content**, navigate to the "Assignment 2" theme customization, select any content under the prefix "Section: ", and edit as needed.
 
@@ -15,7 +16,12 @@
 
 **To change the video lightbox**, select "Section: Video Lightbox" and navigate to section settings to customize the heading, url and thumbnail.
 
-****
+**To change the projects**, select "Section: Team" and edit items as needed.
+
+**To change news and blog posts tab**, select "Section: News" and edit the title, excerpt length, number of posts shown etc. However to change/add new posts, navigate to the posts menu in the Wordpress dashboard instead.
+
+**To change the Contact Us tab**, select "Section: Contact" and navigate to section settings to edit the title, subtitle and description. Change the address, text and map navigate to section content. The interactive map can be changed by using shortcodes added via the plugin "Shortcodes Ultimate"
+
 
 # Schedule Table
 

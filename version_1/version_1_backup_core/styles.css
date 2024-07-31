@@ -1,0 +1,1250 @@
+/*
+Author: Changlin Zhao
+Date: May 20th, 2023
+File Name: styles.css
+*/
+
+body,
+header,
+nav,
+main,
+footer,
+h1,
+div,
+img,
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #1c2841;
+}
+
+
+/* Style rules for mobile viewport */
+header {
+    top: 0;
+    background-color: #1c2841;
+    height: 120px;
+}
+
+header img {
+    display: block;
+    margin: 0 auto;
+    max-width: 70%;
+    margin-top: 6%;
+}
+
+.mobile-nav a {
+    color: #fff;
+    font-family: 'Francois One', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+    text-decoration: none;
+    padding: 3%;
+    display: block;
+}
+
+.mobile-nav a.menu-icon {
+    color: #fff;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+.mobile {
+    display: block;
+}
+
+.desktop,
+.tablet-desktop,
+#menu-links {
+    display: none;
+}
+
+main {
+    background-color: #e7e3e3;
+    padding-top: 3%;
+    font-family: 'Roboto Slab', serif;
+}
+
+#mobileannouncement {
+    background-color: #e7e3e3;
+}
+
+#mobileannouncement h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+#mobileannouncement h4 {
+    margin: 7%;
+}
+
+#mobileannouncement a {
+    text-decoration: none;
+    color: #c70c46;
+}
+
+#welcome a {
+    text-decoration: none;
+}
+
+#welcome p {
+    margin-top: 1%;
+    padding-left: 1%;
+}
+
+#mobilehours h4 {
+    margin: 1%;
+}
+
+#welhour {
+    padding: 4%;
+    background-color: rgb(244, 245, 247);
+}
+
+#comboservice {
+    background-color: #e7e3e3;
+}
+
+#description {
+    background-color: rgb(244, 245, 247);
+}
+
+#description h2 {
+    padding-top: 10px;
+}
+
+.mobile h4 {
+    text-shadow: 5px 5px 8px #ccc;
+    text-align: center;
+}
+
+#aboutmobilehours {
+    padding-top: 8px;
+    padding-bottom: 20px;
+}
+
+#aboutmobilehours ul {
+    margin-left: 22%;
+}
+
+#expertise,
+#care {
+    padding: 4%;
+}
+
+#passion,
+#dedication {
+    padding: 4%;
+    background-color: rgb(244, 245, 247);
+}
+
+#article {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#article h1 {
+    padding-top: 3%;
+}
+
+#links {
+    margin: 3%;
+    padding-bottom: 3%;
+}
+
+#links ul li {
+    list-style: none;
+}
+
+#links b {
+    font-size: 13px;
+}
+
+#links h1 {
+    font-size: 18px;
+}
+
+#mobilemail {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+#mobilemail a {
+    color: #000;
+}
+
+.tel-link {
+    background-color: #1c2841;
+    padding: 2%;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.tel-link a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.5em;
+    display: block;
+}
+
+.hours {
+    margin-left: 10%;
+}
+
+.services {
+    margin-left: 20%;
+}
+
+#description {
+    padding-bottom: 8%;
+    padding-right: 3%;
+}
+
+#description h2 {
+    text-align: center;
+}
+
+#description ul {
+    margin-left: 10%;
+}
+
+#combo img {
+    display: block;
+    margin: 0 auto;
+    height: 100%;
+    padding-top: 5%;
+    padding-bottom: 1%;
+}
+
+#introword {
+    padding-top: 3%;
+}
+
+#introword h1 {
+    text-align: center;
+}
+
+#article h1 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#links a {
+    color: #c70c46;
+    text-decoration: none;
+}
+
+#contact h2,
+#contact h3 {
+    text-align: center;
+}
+
+#contact a {
+    text-decoration: none;
+}
+
+#form {
+    background-color: #f2f2f2;
+    padding: 2%;
+}
+
+#form h2 {
+    text-align: center;
+}
+
+fieldset,
+select,
+textarea {
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    margin-left: 28%;
+}
+
+fieldset legend {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+#notes {
+    margin-top: 0%;
+}
+
+label {
+    display: block;
+}
+
+form #submit {
+    color: #f2f2f2;
+    margin: 0 auto;
+    border: none;
+    display: block;
+    padding: 2%;
+    background-color: #1c2841;
+    font-size: 1em;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#fName,
+#lName {
+    padding-top: 0%;
+}
+
+#boxes label {
+    margin-left: 50%;
+}
+
+input,
+textarea,
+select {
+    border: 1px solid black;
+}
+
+#topBtn {
+    display: none;
+    position: fixed;
+    bottom: 242px;
+    right: 7px;
+    z-index: 99;
+}
+
+footer {
+    display: block;
+    background-color: #1c2841;
+    padding: 1em 1em;
+}
+
+#footnav h1 {
+    text-align: center;
+    color: #f2f2f2;
+}
+
+#footnav a {
+    color: #e7e3e3;
+    text-decoration: none;
+}
+
+#footnav ul {
+    list-style-type: none;
+    text-align: initial;
+    margin-left: 41%;
+    padding: 1%;
+}
+
+#footnav ul li {
+    padding: 1%;
+}
+
+footer p {
+    font-size: 0.8em;
+    text-align: center;
+    color: #99aab5;
+    padding: 0 1em;
+}
+
+footer p a {
+    color: #99aab5;
+    text-decoration: none;
+}
+
+/* Media Query for Tablet Viewport */
+@media screen and (min-width: 630px) {
+
+    /* Tablet Viewport: Show tablet-desktop class, hide mobile class */
+    .tablet-desktop {
+        display: block;
+    }
+
+    .mobile,
+    .desktop,
+    mobile-nav,
+    .mobile-nav a.menu-icon {
+        display: none;
+    }
+
+    #links {
+        display: block;
+    }
+
+    header {
+        padding-bottom: 5%;
+    }
+
+    header img {
+        margin-top: 1%;
+    }
+
+    /* Tablet Viewport: Style rules for nav area */
+    nav {
+        padding: 1%;
+        margin-bottom: 1%;
+    }
+
+    nav ul {
+        list-style-type: none;
+        text-align: center;
+    }
+
+    nav li {
+        font-size: 1.5em;
+        font-family: 'Francois One', sans-serif;
+        display: inline-block;
+        border-right: 1px solid #fff;
+    }
+
+    nav li:last-child {
+        border-right: none;
+    }
+
+    nav li a {
+        display: block;
+        color: #fff;
+        text-decoration: none;
+        padding: 0.1em 0.75em;
+    }
+
+    #service h1 {
+        text-align: center;
+    }
+
+    #service p {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    #tires img {
+        max-width: 100%;
+    }
+
+    #tires {
+        position: relative;
+    }
+
+    #announcements {
+        color: aliceblue;
+        position: absolute;
+        top: 49%;
+        left: 26%;
+        font-size: 11px;
+        transform: translate(-50%, -50%);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    #announcements h1 {
+        text-align: center;
+    }
+
+    #announcements li a {
+        font-size: 1.2em;
+        color: #c70c46;
+        font-weight: bold;
+        text-decoration: none;
+    }
+
+    .highlight {
+        font-size: 1.2em;
+        color: #c70c46;
+        font-weight: bold;
+    }
+
+    #form {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    form #submit {
+        margin: auto auto;
+    }
+
+    #form input[type="text"],
+    #form input[type="email"],
+    #form input[type="tel"],
+    #form input[type="date"],
+    #form input[type="time"] {
+        width: 80%;
+        padding: 6px;
+    }
+
+    #form label {
+        display: block;
+    }
+
+    #form .form-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+
+    .datetime {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #submit {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 40%;
+        height: 20%;
+    }
+
+    .desktop {
+        display: none;
+    }
+
+    #wrench img {
+        max-width: 100%;
+    }
+
+    .packagecontainer {
+        position: relative;
+    }
+
+    #packagedetail {
+        color: aliceblue;
+        position: absolute;
+        top: 49%;
+        left: 70%;
+        font-size: 2px;
+        transform: translate(-50%, -50%);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    .hourscontainer {
+        position: relative;
+    }
+
+    #daylight img {
+        display: block;
+        max-width: 100%;
+    }
+
+    #tradinghours {
+        display: block;
+        position: absolute;
+        color: #000;
+        top: 11%;
+        left: 15%;
+        font-size: 20px;
+    }
+
+    #introword h1 {
+        text-align: center;
+    }
+
+    #background img {
+        display: none;
+    }
+
+    #links p {
+        text-align: center;
+    }
+
+    #links h1 {
+        font-size: 25px;
+        text-align: center;
+    }
+
+    #links b {
+        font-size: 20px;
+    }
+
+    #links ul {
+        margin-left: 20%;
+    }
+
+    #mobilemail {
+        font-size: 25px;
+    }
+
+    #contact a {
+        text-align: center;
+        text-decoration: none;
+    }
+
+    #intropic img,
+    #afterpic img {
+        margin-left: 11%;
+    }
+
+    #afterpic {
+        padding-bottom: 2%;
+    }
+
+    #maintainance,
+    #repairs {
+        float: left;
+        width: 48%;
+        margin: 1%;
+    }
+
+    #maintainance h1,
+    #repairs h1 {
+        font-size: 1.6em;
+        text-align: center;
+    }
+
+    #inspection {
+        background-color: rgb(244, 245, 247);
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
+
+    #inspection h1,
+    #servicing h1 {
+        font-size: 1.6em;
+        text-align: center;
+        padding-top: 1%;
+    }
+
+    #maintainance p,
+    #repairs p,
+    #inspection p,
+    #servicing p {
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    #engine {
+        position: relative;
+        width: 100%;
+    }
+
+    #engine img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    #servicinglist {
+        position: absolute;
+        top: 55%;
+        left: 9%;
+        transform: translateY(-50%);
+        color: white;
+        padding-left: 20px;
+        max-width: 50%;
+    }
+
+    #servicinglist h1 {
+        font-size: 1.2em;
+        text-align: left;
+    }
+
+    #servicinglist ul {
+        list-style: none;
+        padding: 2%;
+        text-align: center;
+    }
+
+    #servicinglist li {
+        position: relative;
+        margin-bottom: 10px;
+    }
+
+    #servicinglist li::before {
+        content: '•';
+        position: absolute;
+        left: 30%;
+        transform: translateX(-50%);
+    }
+
+    #article h1 {
+        padding-top: 0%;
+    }
+
+    #contacttire {
+        display: none;
+    }
+
+    .filler {
+        clear: left;
+    }
+
+    #servicingdetail {
+        display: none;
+    }
+
+    .tel-link {
+        background-color: #1c2841;
+        padding: 2%;
+        margin: 0 auto;
+        width: 50%;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    #footnav h1 {
+        text-align: center;
+        color: #f2f2f2;
+    }
+
+    #footnav a {
+        color: #e7e3e3;
+        text-decoration: none;
+    }
+
+    #footnav ul {
+        text-align: initial;
+        margin-left: 41%;
+        padding: 1%;
+    }
+
+    #footnav ul li {
+        padding: 1%;
+    }
+
+}
+
+/* Media Query for Desktop Viewport */
+@media screen and (min-width: 1015px) {
+
+    .tablet-desktop {
+        display: block;
+    }
+
+    .mobile,
+    mobile-nav,
+    .mobile-nav a.menu-icon {
+        display: none;
+    }
+
+    /* Desktop Viewport: Style rule for header */
+    header {
+        width: 25%;
+        float: left;
+        padding-bottom: 0;
+    }
+
+    header img {
+        max-height: 100%;
+        margin-left: 0;
+        margin-top: 10px;
+        max-width: 90%;
+        padding-top: 32px;
+    }
+
+    /* Desktop Viewport: Style rules for nav area */
+    nav {
+        float: right;
+        width: 70%;
+        margin: 4em 1em 0 0;
+        padding: 0%;
+        padding-bottom: 20px;
+        position: relative;
+        z-index: 99;
+    }
+
+    nav ul {
+        text-align: right;
+    }
+
+    nav li {
+        border: none;
+    }
+
+    nav li a:hover {
+        color: #000;
+        background-color: #fff;
+    }
+
+    main {
+        padding-top: 3%;
+    }
+
+    #announcements {
+        top: 61%;
+        left: 26%;
+        font-size: 20px;
+        transform: translate(-50%, -50%);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    #announcements a:hover {
+        color: #f9dd96;
+    }
+
+    #form input[type="text"],
+    #form input[type="email"],
+    #form input[type="tel"],
+    #form input[type="date"],
+    #form input[type="time"] {
+        width: 40%;
+        padding: 6px;
+    }
+
+    #phone {
+        margin-bottom: 3%;
+    }
+
+    #form .form-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+
+    #form label {
+        margin-top: 1%;
+    }
+
+    .checkbox-item label {
+        margin-bottom: 12px;
+    }
+
+    select {
+        width: 25%;
+    }
+
+    #plate {
+        margin-bottom: 3%;
+    }
+
+    .checkbox-item {
+        display: flex;
+        align-items: center;
+        margin-left: 40%;
+    }
+
+    #daylight img {
+        max-width: 100%;
+        display: block;
+    }
+
+    #background img {
+        display: block;
+        max-width: 100%;
+    }
+
+    #packagecontainer {
+        position: relative;
+    }
+
+    #packagedetail {
+        color: aliceblue;
+        position: absolute;
+        top: 64%;
+        left: 70%;
+        font-size: 16px;
+        transform: translate(-50%, -50%);
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    }
+
+    #packagedetail a {
+        text-decoration: none;
+        margin-left: 18%;
+        color: #c70c46;
+    }
+
+    #packagedetail a:hover {
+        color: #f9dd96;
+    }
+
+    #services {
+        display: none;
+    }
+
+    #engine {
+        display: none;
+    }
+
+    #passion,
+    #dedication {
+        background-color: #e7e3e3;
+    }
+
+    #article {
+        color: #e7e3e3;
+        position: absolute;
+        top: 760px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 17px;
+    }
+
+    #article h1,
+    h4 {
+        text-align: center;
+    }
+
+    #links {
+        display: none;
+    }
+
+    #blog {
+        display: grid;
+        position: relative;
+        z-index: 9999;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        gap: 10px;
+        margin-left: 2%;
+        margin-right: 1%;
+        margin-top: 0px;
+        max-width: 100%;
+    }
+
+    #blog a {
+        text-align: center;
+        text-decoration: none;
+        color: #000;
+        font-weight: bold;
+    }
+
+    #blog p {
+        width: 300px;
+    }
+
+    #blog a:hover {
+        color: #c70c46;
+    }
+
+    #blog img {
+        transition: transform 0.2s, box-shadow 0.2s;
+        box-sizing: border-box;
+    }
+
+    #blog img:hover {
+        transform: scale(1.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .hourscontainer {
+        position: relative;
+    }
+
+    #tradinghours {
+        display: block;
+        color: #000;
+        position: absolute;
+        top: 43%;
+        left: 15%;
+        font-size: 29px;
+    }
+
+    #contacttire {
+        display: block;
+    }
+
+    #contacttire img {
+        max-width: 100%;
+    }
+
+    .desktop {
+        display: block;
+    }
+
+    #service {
+        display: none;
+    }
+
+    #servicegrid h1 {
+        text-align: center;
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+
+    #servicegrid p {
+        margin-top: 10px;
+        text-align: left;
+    }
+
+    .gridcontainer {
+        display: flex;
+        justify-content: space-between;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 90%;
+    }
+
+    #servicegrid,
+    #sunworkshop {
+        flex: 1;
+        box-sizing: border-box;
+        padding: 15px;
+    }
+
+    #servicegrid {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .imggrid {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 10px;
+    }
+
+    .imggrid section {
+        display: flex;
+        align-items: center;
+        background-color: #f9dd96;
+        padding: 16px;
+        gap: 10px;
+    }
+
+    .imggrid a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    .imggrid a:hover {
+        color: #c70c46;
+    }
+
+    .imggrid section img {
+        width: 100px;
+    }
+
+    #offergrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    #offergrid h1 {
+        padding: 1%;
+        text-align: center;
+    }
+
+    #offergrid section {
+        padding: 1%;
+    }
+
+    #offergrid img {
+        width: 80%;
+        display: block;
+        margin: auto;
+    }
+
+    #offergrid section p {
+        max-width: 80%;
+        margin: auto;
+        padding: 1%;
+    }
+
+    #desktopservicing {
+        margin-top: 5%;
+        text-align: center;
+    }
+
+    #servicingdetail {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding-top: 2%;
+    }
+
+    #servicingdetail h1 {
+        padding: 1%;
+        text-align: center;
+        color: #c70c46;
+    }
+
+    #servicingdetail section {
+        padding: 2%;
+        border: 1px solid #ddd;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s ease;
+    }
+
+    #servicingdetail section:hover {
+        background-color: #f9f9f9;
+    }
+
+    #servicingdetail section p {
+        max-width: 90%;
+        margin: auto;
+        padding: 1%;
+    }
+
+
+    #introword {
+        padding-top: 1px;
+    }
+
+    #intropic,
+    #afterpic {
+        display: none;
+    }
+
+    #introgrid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        padding-bottom: 3%;
+    }
+
+    #introgrid section {
+        padding: 2%;
+        background: linear-gradient(to right, #fff, #f3f3f3);
+        transition: all 0.3s ease-in-out;
+    }
+
+    #introgrid section:hover {
+        transform: scale(1.05);
+        box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    #introgrid h1 {
+        padding: 1%;
+        text-align: center;
+        color: #000;
+        font-size: 1.3em;
+    }
+
+    #introgrid section p {
+        max-width: 90%;
+        margin: auto;
+        padding: 2%;
+    }
+
+
+    .tel-link {
+        color: #b3d7ef;
+        padding: 2%;
+        margin: 0 auto;
+        width: 50%;
+        border-radius: 5px;
+    }
+
+    .contactcontainer {
+        position: relative;
+    }
+
+    #desktopcontact a:hover {
+        color: #f9dd96;
+    }
+
+    #contact {
+        display: none;
+    }
+
+    #desktopcontact {
+        position: absolute;
+        top: 46%;
+        left: 12%;
+    }
+
+    #desktopcontact h2,
+    #desktopcontact h1,
+    #desktopcontact h3
+     {
+        text-align: center;
+        color: #fff;
+    }
+
+    #desktopcontact a,
+    #desktopcontact p {
+        text-align: center;
+        color: #c70c46
+    }
+
+    #desktopcontact a {
+        text-decoration: none;
+    }
+
+    #topBtn {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 7px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        background-color: rgba(255, 255, 255, 0.8);
+        color: #333;
+        cursor: pointer;
+        padding: 15px;
+        border-radius: 50%;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+
+    #topBtn:hover {
+        background-color: #05031e;
+        color: #edeaea;
+    }
+
+
+    #topBtn::before {
+        content: "\2191";
+        font-size: 18px;
+        vertical-align: middle;
+    }
+
+    #footnav,
+    #footinfo {
+        float: left;
+    }
+
+    #footnav a,
+    #footinfo a {
+        color: #e7e3e3;
+        text-decoration: none;
+    }
+
+    #footnav a:hover {
+        color: #c70c46;
+    }
+
+    #footinfo a:hover {
+        color: #c70c46;
+    }
+
+    #footnav ul {
+        text-align: initial;
+        margin-left: 39%;
+        padding: 1%;
+    }
+
+    #footinfo {
+        color: #f2f2f2
+    }
+
+    #footinfo h6 {
+        margin-bottom: 0%;
+        margin-top: 0%;
+        padding: 1.5%;
+    }
+
+    .footer-content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    #footnav {
+        margin-right: 10%;
+    }
+
+    #footinfo {
+        margin-left: 10%;
+    }
+
+}

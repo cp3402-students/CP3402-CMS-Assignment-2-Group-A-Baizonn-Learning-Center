@@ -5,7 +5,17 @@
 **To change the site menu**, navigate to the same theme, customize and select the menus option. Then select the menu named "primary", and add items/reorder as needed.
 
 # Home Page
-**To edit content**, add 
+**To edit content**, navigate to the "Assignment 2" theme customization, select any content under the prefix "Section: ", and edit as needed.
+
+**To change the hero content**, follow the steps above and select settings to change padding, animation speed etc, select background media to change the images, and content layout edit the text and buttons.
+
+**To change the principles**, select "Section: Features" and add/edit the items as needed.
+
+**To change the Open House details**, select "Section: About" and navigate to section settings for editing the title and description. In order to change the linked content, navigate to section content.
+
+**To change the video lightbox**, select "Section: Video Lightbox" and navigate to section settings to customize the heading, url and thumbnail.
+
+****
 
 # Schedule Table
 

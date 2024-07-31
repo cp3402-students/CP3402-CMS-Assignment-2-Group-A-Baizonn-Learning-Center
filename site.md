@@ -30,6 +30,22 @@ Welcome to the documentation for the wordpress website. This document provides a
 - `WPForms Lite` (By: WP Engine, [Wordpress.org Plugin Page](https://wordpress.org/plugins/wpforms-lite/))
 - `WPvivid Backup Plugin` (By: WPvivid Team, [Wordpress.org Plugin Page](https://wordpress.org/plugins/wpvivid-backuprestore/))
 
+## Breifly Intro for Pulgin
+- `Advanced Custom Fields` allows developer can create the content display as they want anywhere.
+- `Child Theme Configurator` Simple Child Theme maker that allows user to modify content out of templates.
+- `Custom Post Type UI` Allow user to catogorize and manage post in custmoized options.
+- `Customizer Export/Import` Export/Importer that allows developers to pick certain files.
+- `FameTheme Demo Importer` Tool that support importing theme settings.
+- `Orbit Fox Companion` Customizer for developer to modify global or page setting on theme, also support muiltiple features.
+- `Popup Maker` Tool to create Popup pages or content, didn't works well so we deleted the content, but still usable.
+- `Shortcodes Ultimate` Allow users to insert short codes in pages that allows us to create better page view.
+- `Simply Static` Plugin imporve the website and server's load that increase the ability of migration and reduce the hosting cost with less storage use.
+- `Super Block Slider` Allow user to create full width blocks for better page view.
+- `Timetable and Event Schedule` Allow developer to create customized timetable and posts.
+- `WP Migrate Lite` Easy WP migrator.
+- `WPForms Lite` For users to create a simple forms on website.
+- `WPvivid Backup Plugin` Strong pulgin that support Backups for version control and allow to migrate whole website with backups.
+
 
 ## Home Page
 **To edit content**, navigate to the "Assignment 2" theme customization, select any content under the prefix "Section: ", and edit as needed.

@@ -23,14 +23,9 @@ Welcome to the documentation for the wordpress website. This document provides a
 ### Customizing Colors
 To change the theme colors, update the color variables in the `style.css` file. Use the WordPress Customizer for real-time preview and changes.
 
-### Adding/Editing Custom Post Types
-Custom post types are defined in the `functions.php` file. You can add or edit custom post types by modifying the relevant sections in this file.
-
 ### Adding New Shortcodes
-Shortcodes are defined in the `functions.php` file. To add new shortcodes, create a new function and register it using the `add_shortcode()` function.
+Shortcodes are defined in the `functions.php` file. To add new shortcodes, create a new function and register it using the `add_shortcode()` function. Shortcodes can also be customized using the "Shortcodes Ultimate" plugin.
 
-### Modifying Layouts
-Templates for various layouts are located in the `/templates/` directory. Modify these files to change the layout of specific pages or sections.
 
 ## Additional Notes
 - **Child Theme Support:** The theme supports child themes for customizations.

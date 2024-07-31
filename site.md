@@ -1,4 +1,4 @@
-# Site 
+# Site
 
 ## Overview
 Welcome to the documentation for the wordpress website. This document provides an overview of the site's features that will assist in editing and adding new content in the future.

@@ -18,7 +18,7 @@ We are Group A. There are five members:
 5. [Chieh Yu Chen (14466621)](https://www.linkedin.com/in/chieh-yu-chen-james/)
 
 The drafted and signed [code of conduct](https://docs.google.com/document/d/1JXUGqQLwIq1LTct91_JQzyKZylD2f3LkFyZNWDfAi7A/edit?usp=sharing).
-The SCRUM stand-up meeting schedules in [Miro Boards](https://miro.com/app/board/uXjVKuCLVeA=/?share_link_id=471049410081).
+The SCRUM stand-up meeting schedules in [Miro Boards]([https://miro.com/app/board/uXjVKuCLVeA=/?share_link_id=471049410081](https://miro.com/welcomeonboard/c0hNQnE5TTdoclZjbjVQblVvRUJaajkxVnU2NjZ5VGJhMjJBRUZ4RDROeG1XU1hHWDVHcmZES2hQdXUyR0hVVnwzNDU4NzY0NTQ5NzgxOTYxODc5fDI=?share_link_id=865188111002)).
  
 # Project Links
 Here are the links where you can see our step-by-step version controls to create a website as a team:

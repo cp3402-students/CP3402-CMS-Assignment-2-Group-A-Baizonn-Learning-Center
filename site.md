@@ -4,6 +4,23 @@
 Welcome to the documentation for the wordpress website. This document provides an overview of the site's features that will assist in editing and adding new content in the future.
 
 
+## Plugin Details
+- `Advanced Custom Fields` (By: WP Engine, [WordPress.org Plugin Page](https://wordpress.org/plugins/advanced-custom-fields/))
+- `Child Theme Configurator` (By: Lilaea Media, [Wordpress.org Plugin Page](https://wordpress.org/plugins/child-theme-configurator/))
+- `Custom Post Type UI` (By: WebDevStudios, [Wordpress.org Plugin Page](https://wordpress.org/plugins/custom-post-type-ui/))
+- `Customizer Export/Import` (By: The Beaver Builder Team, [Wordpress.org Plugin Page](https://wordpress.org/plugins/customizer-export-import/))
+- `FameTheme Demo Importer` (By: FameThemes, [Wordpress.org Plugin Page](https://wordpress.org/plugins/famethemes-demo-importer/))
+- `Orbit Fox Companion` (By: Themeisle, [Wordpress.org Plugin Page](https://wordpress.org/plugins/themeisle-companion/))
+- `Popup Maker` (By: Popup Maker, [Wordpress.org Plugin Page](https://wordpress.org/plugins/popup-maker/))
+- `Shortcodes Ultimate` (By: Vova Anokhin, [Wordpress.org Plugin Page](https://wordpress.org/plugins/shortcodes-ultimate/))
+- `Simply Static` (By: Patrick Posner, [Wordpress.org Plugin Page](https://wordpress.org/plugins/simply-static/))
+- `Super Block Slider` (By: mikemmx, [Wordpress.org Plugin Page](https://wordpress.org/plugins/super-block-slider/))
+- `Timetable and Event Schedule` (By: MotoPress, [Wordpress.org Plugin Page](https://wordpress.org/plugins/mp-timetable/))
+- `WP Migrate Lite` (By: WP Engine, [Wordpress.org Plugin Page](https://wordpress.org/plugins/wp-migrate-db/))
+- `WPForms Lite` (By: WP Engine, [Wordpress.org Plugin Page](https://wordpress.org/plugins/wpforms-lite/))
+- `WPvivid Backup Plugin` (By: WPvivid Team, [Wordpress.org Plugin Page](https://wordpress.org/plugins/wpvivid-backuprestore/))
+
+
 ## Home Page
 **To edit content**, navigate to the "Assignment 2" theme customization, select any content under the prefix "Section: ", and edit as needed.
 
